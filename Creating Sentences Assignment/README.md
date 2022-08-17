@@ -1,0 +1,1 @@
+This assignment concatenates individual strings into one sentence.
