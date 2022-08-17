@@ -1,0 +1,1 @@
+This assignment creates a story using variables containing strings, numbers, arrays, and booleans.
