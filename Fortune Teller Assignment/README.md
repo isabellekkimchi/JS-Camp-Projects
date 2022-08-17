@@ -1,0 +1,1 @@
+This assignment takes a number and outputs a fortune.
